@@ -79,6 +79,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 ```md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 #### How it looks
 

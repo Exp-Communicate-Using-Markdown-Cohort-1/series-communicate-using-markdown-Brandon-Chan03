@@ -1,21 +1,21 @@
-<!--
+
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
+
 
 # Communicate using Markdown
 #WOOOT
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-<!--
+
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
--->
+
 
 <details id=1 open>
 <summary><h2>Step 1: Add headers</h2></summary>
@@ -32,11 +32,11 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### Example
 
-```md
+
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
-```
+
 
 #### How it looks
 
@@ -61,11 +61,11 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 </details>
 
-<!--
+
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+
 
 <details id=2>
 <summary><h2>Step 2: Add an image</h2></summary>
@@ -76,9 +76,9 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 ### Example
 
-```md
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 #### How it looks
@@ -95,11 +95,11 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 </details>
 
-<!--
+
   <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+
 
 <details id=3>
 <summary><h2>Step 3: Add a code example</h2></summary>
@@ -111,18 +111,18 @@ In addition to code blocks, some code blocks should be rendered differently depe
 ### Example
 
 <pre>
-```
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+
 </pre>
 
 #### How it looks
 
-```
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+
 
 ### :keyboard: Activity: Adding a code example
 
@@ -134,11 +134,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 </details>
 
-<!--
+
   <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+
 
 <details id=4>
 <summary><h2>Step 4: Make a task list</h2></summary>
@@ -149,11 +149,11 @@ _Great job adding a code example to the file :partying_face:_
 
 ### Example
 
-```
+
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
-```
+
 
 #### How it looks
 
@@ -168,11 +168,11 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 1. Return to your pull request.
 1. Use Markdown to create a task list. Here is an example:
 
-   ```md
+
    - [ ] Turn on GitHub Pages
    - [ ] Outline my portfolio
    - [ ] Introduce myself to the world
-   ```
+
 
    Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
 
@@ -182,11 +182,11 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 
 </details>
 
-<!--
+
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+
 
 <details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
@@ -208,10 +208,10 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 
 </details>
 
-<!--
+
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
--->
+
 
 <details id=X>
 <summary><h2>Finish</h2></summary>
@@ -242,10 +242,10 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 </details>
 
-<!--
+
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
--->
+
 
 ---
 
